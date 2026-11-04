@@ -27,7 +27,7 @@ Open Termux and run:
 ```bash
 pkg update && pkg upgrade -y
 pkg install -y git curl
-git clone https://github.com/adity-a0/opencode-termux.git ~/opencode-termux
+git clone https://github.com/thedino0/opencode-termux.git ~/opencode-termux
 cd ~/opencode-termux
 ```
 
